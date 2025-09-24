@@ -1,0 +1,6 @@
+adding data to and is is called referencing for example
+{ id1, id2, id3}
+
+adding the whole data to the array is called embedding
+{data1 color age , number , id2 color age }
+
