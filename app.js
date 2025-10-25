@@ -15,6 +15,7 @@ app.get('/create', async (req, res) => {
       age: 21,
       email: "rajkumarkarn002@gmail.com"
     });
+    // another line to commit
     res.send(user);
   } catch (err) {
     console.error(err);
